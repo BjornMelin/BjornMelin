@@ -21,7 +21,7 @@ AWS-certified Solutions Architect and Developer with expertise in cloud architec
 
 ### Current Focus and Interests
 
-- 🔭 I’m currently working on [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl)
+- 🔭 I’m currently working on [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) and [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl)
 - 🌱 I’m currently learning NextJS, tRPC, Tailwind CSS, shadcn/ui, Edge Functions, AWS Bedrock
 <!-- - 👯 I’m looking to collaborate on [Project/Technology] -->
 - 🤔 I’m looking for help with [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
