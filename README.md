@@ -23,10 +23,10 @@ AWS-certified Solutions Architect and Developer with expertise in cloud architec
 
 ### Current Focus and Interests
 
-- 🔭 I’m currently working on [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) and [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl)
+- 🔭 I’m currently working on [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) and [simple-pdf-merger](https://github.com/BjornMelin/simple-pdf-merger)
 - 🌱 I’m currently learning NextJS, tRPC, Tailwind CSS, shadcn/ui, Edge Functions, AWS Bedrock
 <!-- - 👯 I’m looking to collaborate on [Project/Technology] -->
-- 🤔 I’m looking for help with [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
+- 🤔 I’m looking for help with [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl) and [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
 - 💬 Ask me about AWS Solution Architecture, Full-Stack development, Infrastructure as Code (IaC), Decoupled Architecture, DevOps, Plotly Dash, Python, Java, Angular, NextJS/NodeJS
 - 📫 How to reach me: [bjornmelin16@gmail.com](bjornmelin16@gmail.com)
 - ⚡ Fun fact: My favoirte hobby is Freestyle Skiing!
