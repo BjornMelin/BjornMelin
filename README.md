@@ -26,17 +26,22 @@ Welcome to my GitHub profile!
 AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine Learning Engineer with expertise in cloud architecture and modern development practices. Connect with me on:
 - [GitHub](https://github.com/BjornMelin)
 - [LinkedIn](https://www.linkedin.com/in/bjorn-melin/)
-- [Coursera](https://www.coursera.org/learner/bjorn-melin)
 - [Medium](https://medium.com/@bjornmelin)
+- [Reddit](https://www.reddit.com/user/Bjornhub1/)
+- [Substack](https://substack.com/@bjornhub)
+- [Coursera](https://www.coursera.org/learner/bjorn-melin)
 
 ### Current Focus and Interests
 
-- 🔭 I’m currently working on [stardex](https://github.com/BjornMelin/stardex), [AIScout](https://github.com/BjornMelin/aiscout-frontend), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
-- 🌱 I’m currently learning NextJS, tRPC, Tailwind CSS, shadcn/ui, Edge Functions, AWS Bedrock
-<!-- - 👯 I’m looking to collaborate on [Project/Technology] -->
-- 🤔 I’m looking for help with [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl) and [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
-- 💬 Ask me about AWS Solution Architecture, Full-Stack development, Infrastructure as Code (IaC), Decoupled Architecture, DevOps, Plotly Dash, Python, Java, Angular, NextJS/NodeJS
-- 📫 How to reach me: [bjornmelin16@gmail.com](mailto:bjornmelin16@gmail.com)
+- 🔭 I’m currently working on [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence), [stardex](https://github.com/BjornMelin/stardex), [AIScout](https://github.com/BjornMelin/aiscout-frontend), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
+- 🌱 I’m currently learning FastAPI, LangChain, Grafana, Prometheus, smolagents, AG2, pydantic-ai, FAISS vector databases,
+- 🚀 Recently developed skills include NextJS, tRPC, Tailwind CSS, ZOD, PostgreSQL, and shadcn/ui.
+- 👯 Looking to collaborate on machine learning and AI projects, LLM integrated applications, AI Agent systems for SWE, Data Science, and research.
+- 🤔 I’m looking for help with [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) and [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
+- 💬 Ask me about AWS Solution Architecture, Large Language Models, Generative AI, Full-Stack development, Infrastructure as Code (IaC), Decoupled Architecture, DevOps, Plotly Dash, Python, Java, Angular, NextJS/NodeJS
+- 📫 How to reach me:
+  - Portfolio Website: [bjornmelin.io](https://bjornmelin.io/)
+  - Email: [bjornmelin16@gmail.com](mailto:bjornmelin16@gmail.com)
 - ⚡ Fun fact: My favorite hobby is Freestyle Skiing!
 
 ## 🌟 Skills
@@ -47,6 +52,10 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 
 ## 🚀 Projects
 
+- [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) - Modular, multi-agent AI for research and report generation. Uses LangChain, FastAPI, PostgreSQL, advanced LLMs, and Next.js.
+- [Stardex](https://github.com/BjornMelin/stardex) - Intelligent exploration of GitHub Stars. Search, filter, and cluster starred repositories with AI-powered insights.
+- [AIScout](https://github.com/BjornMelin/aiscout-frontend) - Real-time AI/ML content aggregator. Curates research papers, repositories, articles, and discussions. Built with React, Python, and AWS.
+- [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) - Cloud-native portfolio platform. Built with Next.js 14, Tailwindcss, shadcn-ui, AWS CDK, and modern DevOps practices.
 - [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl) - Modern edge-first REPL for AWS Bedrock with Next.js 14, tRPC, and TypeScript. High-performance playground for AWS Bedrock development.
 - [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts) - Expert-level prompt templates for modern software development using AI pair programming.
 - [specio-pypy310](https://github.com/BjornMelin/specio-py310) - specio: Python input/output for spectroscopic files.
