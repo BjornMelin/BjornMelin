@@ -1,16 +1,16 @@
 # Hi there, I'm Bjorn Melin! 👋
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
-[![AWS DVA](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate)
-[![AWS SysOps](https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-sysops-administrator-associate)
-[![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-engineer-associate)
-[![AWS AIF](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-ai-practitioner)
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner)
-[![GitHub](https://img.shields.io/badge/GitHub-BjornMelin-181717?logo=github)](https://github.com/BjornMelin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bjorn%20Melin-0077B5?logo=linkedin)](https://www.linkedin.com/in/bjorn-melin/)
-[![Coursera](https://img.shields.io/badge/Coursera-2A73CC?logo=coursera&logoColor=white)](https://www.coursera.org/learner/bjorn-melin)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@bjornmelin)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-3178C6?logoColor=white)](https://langchain.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+[![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5D3FD3?logoColor=white)](https://github.com/anthropics/anthropic-cookbook/tree/main/model_written_evals/MCP)
 
 ## 👨‍💻 About Me
 
@@ -29,15 +29,14 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 - [Medium](https://medium.com/@bjornmelin)
 - [Reddit](https://www.reddit.com/user/Bjornhub1/)
 - [Substack](https://substack.com/@bjornhub)
-- [Coursera](https://www.coursera.org/learner/bjorn-melin)
 
 ### Current Focus and Interests
 
-- 🔭 I’m currently working on [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence), [stardex](https://github.com/BjornMelin/stardex), [AIScout](https://github.com/BjornMelin/aiscout-frontend), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
-- 🌱 I’m currently learning FastAPI, LangChain, Grafana, Prometheus, smolagents, AG2, pydantic-ai, FAISS vector databases,
+- 🔭 I'm currently working on [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence), [stardex](https://github.com/BjornMelin/stardex), [AIScout](https://github.com/BjornMelin/aiscout-frontend), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
+- 🌱 I'm currently learning FastAPI, LangChain, Grafana, Prometheus, smolagents, AG2, pydantic-ai, FAISS vector databases,
 - 🚀 Recently developed skills include NextJS, tRPC, Tailwind CSS, ZOD, PostgreSQL, and shadcn/ui.
 - 👯 Looking to collaborate on machine learning and AI projects, LLM integrated applications, AI Agent systems for SWE, Data Science, and research.
-- 🤔 I’m looking for help with [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) and [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
+- 🤔 I'm looking for help with [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) and [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
 - 💬 Ask me about AWS Solution Architecture, Large Language Models, Generative AI, Full-Stack development, Infrastructure as Code (IaC), Decoupled Architecture, DevOps, Plotly Dash, Python, Java, Angular, NextJS/NodeJS
 - 📫 How to reach me:
   - Portfolio Website: [bjornmelin.io](https://bjornmelin.io/)
@@ -46,8 +45,11 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 
 ## 🌟 Skills
 
-- Programming Languages: Python, Java, TypeScript, NodeJS, JavaScript
-- Technologies: Amazon Web Services, Databricks, Azure, Docker, Kubernetes, GitHub Actions, Spring Framework
+- Programming Languages: Python, TypeScript, NodeJS, JavaScript, Java
+- Technologies: Amazon Web Services, Databricks, Google Cloud, Docker, GitHub Actions
+- AI/ML Tools: OpenAI Agents SDK, Agno AGI, Qdrant, LangChain, Model Context Protocol (MCP), Mem0, AutoGen
+- Frameworks & Platforms: Next.js, React, FastAPI, Vercel, Cloudflare
+- Databases: PostgreSQL, Neo4j, Qdrant, MongoDB
 - Tools: GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face
 
 ## 🚀 Projects
