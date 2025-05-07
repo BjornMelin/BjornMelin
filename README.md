@@ -32,12 +32,14 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 
 ### Current Focus and Interests
 
-- 🔭 I'm currently working on [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence), [stardex](https://github.com/BjornMelin/stardex), [AIScout](https://github.com/BjornMelin/aiscout-frontend), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
-- 🌱 I'm currently learning FastAPI, LangChain, Grafana, Prometheus, smolagents, AG2, pydantic-ai, FAISS vector databases,
-- 🚀 Recently developed skills include NextJS, tRPC, Tailwind CSS, ZOD, PostgreSQL, and shadcn/ui.
+- 🔭 I'm currently working on [Enhanced Memory Vector RAG](https://github.com/BjornMelin/enhanced-mem-vector-rag), [OpenAI Agents Travel Graph ✈️](https://github.com/BjornMelin/openai-agents-travel-graph), [Supabase Vector Gmail KB RAG](https://github.com/BjornMelin/supabase-vector-gmailkb-rag), [LinkedIn Saved Posts AI](https://github.com/BjornMelin/linkedin-saved-posts-ai), [PromptAtlas](https://github.com/BjornMelin/prompt-atlas), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
+- 🌱 I'm currently exploring advanced knowledge graph, vector, and memory systems (Hybrid RAG, KAG, & CAG) with tools like Cloudflare Agents, OpenAI Agents SDK, Qdrant, Graphiti/Zed, Neo4j, pgvector, and FastMCP. I'm integrating these into my agentic workflows and applications for shared memory systems.  
+  - Recently, I've grown fond of Supabase for its simplicity in managing PostgreSQL DBs, integrations, and built-in Auth. Supabase + Vercel deployments have been a time and cost saver.
+- 🚀 Recently developed skills include PostgreSQL/Supabase, Agno AGI, FastAPI, LangChain, Vercel Cloud, smolagents, NextJS, tRPC, Tailwind CSS, ZOD, PostgreSQL, and shadcn/ui.
+- 🔜 **Next Up:** AWS OpenSearch vector DB, Weaviate, Grafana, Prometheus, AG2, pydantic-ai, FAISS vector databases.
 - 👯 Looking to collaborate on machine learning and AI projects, LLM integrated applications, AI Agent systems for SWE, Data Science, and research.
 - 🤔 I'm looking for help with [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) and [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts)
-- 💬 Ask me about AWS Solution Architecture, Large Language Models, Generative AI, Full-Stack development, Infrastructure as Code (IaC), Decoupled Architecture, DevOps, Plotly Dash, Python, Java, Angular, NextJS/NodeJS
+- 💬 Ask me about AI Engineering, Large Language Models (LLM), Model Context Protocol (MCP), GPU Acceleration + Optimization (local-LLMs on potato smolGPUs), AWS Solution Architecture, Large Language Models, Generative AI, Full-Stack development, Infrastructure as Code (IaC), Decoupled Architecture, DevOps, Plotly Dash, Python, Java, Angular, NextJS/NodeJS
 - 📫 How to reach me:
   - Portfolio Website: [bjornmelin.io](https://bjornmelin.io/)
   - Email: [bjornmelin16@gmail.com](mailto:bjornmelin16@gmail.com)
@@ -54,12 +56,10 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 
 ## 🚀 Projects
 
+- [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) - Cloud-native portfolio platform. Built with Next.js 14, Tailwindcss, shadcn-ui, AWS CDK, and modern DevOps practices.
 - [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) - Modular, multi-agent AI for research and report generation. Uses LangChain, FastAPI, PostgreSQL, advanced LLMs, and Next.js.
 - [Stardex](https://github.com/BjornMelin/stardex) - Intelligent exploration of GitHub Stars. Search, filter, and cluster starred repositories with AI-powered insights.
 - [AIScout](https://github.com/BjornMelin/aiscout-frontend) - Real-time AI/ML content aggregator. Curates research papers, repositories, articles, and discussions. Built with React, Python, and AWS.
-- [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) - Cloud-native portfolio platform. Built with Next.js 14, Tailwindcss, shadcn-ui, AWS CDK, and modern DevOps practices.
-- [aws-next-edge-bedrock-repl](https://github.com/BjornMelin/aws-next-edge-bedrock-repl) - Modern edge-first REPL for AWS Bedrock with Next.js 14, tRPC, and TypeScript. High-performance playground for AWS Bedrock development.
-- [ai-powered-development-prompts](https://github.com/BjornMelin/ai-powered-development-prompts) - Expert-level prompt templates for modern software development using AI pair programming.
 - [specio-pypy310](https://github.com/BjornMelin/specio-py310) - specio: Python input/output for spectroscopic files.
 
 ## 🌟 GitHub Stats
