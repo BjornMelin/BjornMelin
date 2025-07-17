@@ -32,7 +32,9 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 
 ### Current Focus and Interests
 
-- 🔭 I'm currently working on [Enhanced Memory Vector RAG](https://github.com/BjornMelin/enhanced-mem-vector-rag), [OpenAI Agents Travel Graph ✈️](https://github.com/BjornMelin/openai-agents-travel-graph), [Supabase Vector Gmail KB RAG](https://github.com/BjornMelin/supabase-vector-gmailkb-rag), [LinkedIn Saved Posts AI](https://github.com/BjornMelin/linkedin-saved-posts-ai), [PromptAtlas](https://github.com/BjornMelin/prompt-atlas), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
+- 🔭 I'm currently working on [VectorVault](https://github.com/BjornMelin/vector-vault), [CodeForge AI: An autonomous multi-agent coding system powered by CrewAI](https://github.com/BjornMelin/codeforge), [Contribux: AI-powered GitHub contribution discovery platform](https://github.com/BjornMelin/contribux), [TripSage AI: AI-powered travel planning and real-time booking platform](https://github.com/BjornMelin/tripsage-ai), [AI Documentation Vector Database Hybrid Scraper](https://github.com/BjornMelin/ai-docs-vector-db-hybrid-scraper).
+  - Always updating my prompt library and portfolio website as projects progress in [PromptAtlas](https://github.com/BjornMelin/prompt-atlas), and [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io).
+  - Core projects build upon or extend earlier projects, including [Enhanced Memory Vector RAG](https://github.com/BjornMelin/enhanced-mem-vector-rag), [OpenAI Agents Travel Graph ✈️](https://github.com/BjornMelin/openai-agents-travel-graph), [Supabase Vector Gmail KB RAG](https://github.com/BjornMelin/supabase-vector-gmailkb-rag), [LinkedIn Saved Posts AI](https://github.com/BjornMelin/linkedin-saved-posts-ai).
 - 🌱 I'm currently exploring advanced knowledge graph, vector, and memory systems (Hybrid RAG, KAG, & CAG) with tools like Cloudflare Agents, OpenAI Agents SDK, Qdrant, Graphiti/Zed, Neo4j, pgvector, and FastMCP. I'm integrating these into my agentic workflows and applications for shared memory systems.  
   - Recently, I've grown fond of Supabase for its simplicity in managing PostgreSQL DBs, integrations, and built-in Auth. Supabase + Vercel deployments have been a time and cost saver.
 - 🚀 Recently developed skills include PostgreSQL/Supabase, Agno AGI, FastAPI, LangChain, Vercel Cloud, smolagents, NextJS, tRPC, Tailwind CSS, ZOD, PostgreSQL, and shadcn/ui.
@@ -48,14 +50,24 @@ AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine 
 ## 🌟 Skills
 
 - Programming Languages: Python, TypeScript, NodeJS, JavaScript, Java
-- Technologies: Amazon Web Services, Databricks, Google Cloud, Docker, GitHub Actions
-- AI/ML Tools: OpenAI Agents SDK, Agno AGI, Qdrant, LangChain, Model Context Protocol (MCP), Mem0, AutoGen
-- Frameworks & Platforms: Next.js, React, FastAPI, Vercel, Cloudflare
-- Databases: PostgreSQL, Neo4j, Qdrant, MongoDB
-- Tools: GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face
+- Technologies: Amazon Web Services, Vercel, Cloudflare, Databricks, Google Cloud, Docker, GitHub Actions
+- AI/ML Tools: LangGraph, CrewAI, OpenAI Agents SDK, Agno AGI, Pydantic-AI, Qdrant, LangChain, Pydantic 2.1+, Zod, Model Context Protocol (MCP), Mem0
+- Frameworks & Platforms: Next.js, React, FastAPI
+- Databases: PostgreSQL, Neo4j, Qdrant, Supabase, Neon, MySQL, SQL
+- Tools: GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face, Scripting (Python + Bash)
 
 ## 🚀 Projects
 
+- [VectorVault](https://github.com/BjornMelin/vector-vault) -
+- [CodeForge AI](https://github.com/BjornMelin/codeforge) - An autonomous multi-agent coding system powered by CrewAI.
+- [Contribux](https://github.com/BjornMelin/contribux) - AI-powered GitHub contribution discovery platform.
+- [TripSage AI](https://github.com/BjornMelin/tripsage-ai) - AI-powered travel planning and real-time booking platform.
+- [AI Docs Vector DB Hybrid Scraper](https://github.com/BjornMelin/ai-docs-vector-db-hybrid-scraper)
+= [PromptAtlas](https://github.com/BjornMelin/prompt-atlas) - Prompt, command, and custom instruction library.
+- [Enhanced Memory Vector RAG](https://github.com/BjornMelin/enhanced-mem-vector-rag)
+- [OpenAI Agents Travel Graph ✈️](https://github.com/BjornMelin/openai-agents-travel-graph)
+- [Supabase Vector Gmail KB RAG](https://github.com/BjornMelin/supabase-vector-gmailkb-rag)
+- [LinkedIn Saved Posts AI](https://github.com/BjornMelin/linkedin-saved-posts-ai)
 - [bjornmelin-platform-io](https://github.com/BjornMelin/bjornmelin-platform-io) - Cloud-native portfolio platform. Built with Next.js 14, Tailwindcss, shadcn-ui, AWS CDK, and modern DevOps practices.
 - [PolyAgent Research Intelligence](https://github.com/BjornMelin/polyagent-research-intelligence) - Modular, multi-agent AI for research and report generation. Uses LangChain, FastAPI, PostgreSQL, advanced LLMs, and Next.js.
 - [Stardex](https://github.com/BjornMelin/stardex) - Intelligent exploration of GitHub Stars. Search, filter, and cluster starred repositories with AI-powered insights.
