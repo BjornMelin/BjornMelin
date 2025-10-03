@@ -24,11 +24,11 @@ Welcome to my GitHub profile!
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner)
 
 AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine Learning Engineer with expertise in cloud architecture and modern development practices. Connect with me on:
+- [Website](https://bjornmelin.io/)
 - [GitHub](https://github.com/BjornMelin)
 - [LinkedIn](https://www.linkedin.com/in/bjorn-melin/)
 - [Medium](https://medium.com/@bjornmelin)
 - [Reddit](https://www.reddit.com/user/Bjornhub1/)
-- [Substack](https://substack.com/@bjornhub)
 
 ### Current Focus and Interests
 
